@@ -1,0 +1,19 @@
+{
+  "name": "@azema4ka/prettier-config",
+  "version": "1.0.0",
+  "description": "Basic prettier config",
+  "main": "config.json",
+  "scripts": {},
+  "repository": "https://github.com/Azema4ka/prettier-config.git",
+  "keywords": [
+    "config",
+    "prettier"
+  ],
+  "author": "Azema4ka <co4nev.1081@mail.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
+    "husky": "^6.0.0"
+  }
+}
