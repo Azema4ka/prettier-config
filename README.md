@@ -1,26 +1,26 @@
 # prettier-config
 
-## Описание
+## Description
 
-Базовый конфиг [prettier](https://prettier.io/)
+Basic Config [prettier](https://prettier.io/)
 
-## Установка
+## Install
 
-Установите пакет
+Install the package
 
 ```
 npm i -D @shveitsar/prettier-config
 ```
 
-или
+or
 
 ```
 yarn add -D @shveitsar/prettier-config
 ```
 
-В корне проекта создайте файл `.prettierrc.js`
+Create a file in the project root `.prettierrc.js`
 
-В файл `.prettierrc.js` добавьте следующий код
+In the file `.prettierrc.js` add the following code
 
 ```
 module.exports = {
