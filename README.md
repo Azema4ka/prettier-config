@@ -2,7 +2,7 @@
 
 ## Description
 
-Basic Config [prettier](https://prettier.io/)
+Basic config [prettier](https://prettier.io/)
 
 ## Install
 
