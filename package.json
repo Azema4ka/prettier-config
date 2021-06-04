@@ -11,6 +11,9 @@
     "config",
     "prettier"
   ],
+  "files": [
+    "config.json"
+  ],
   "author": "Azema4ka <co4nev.1081@mail.ru>",
   "license": "MIT",
   "devDependencies": {
