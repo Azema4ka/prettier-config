@@ -4,7 +4,7 @@
   "description": "Basic prettier config",
   "main": "config.json",
   "scripts": {
-    "publish": "npm publish --access=public"
+    "publish:package": "npm publish --access=public"
   },
   "repository": "https://github.com/Azema4ka/prettier-config.git",
   "keywords": [
