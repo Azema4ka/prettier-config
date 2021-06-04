@@ -1,6 +1,6 @@
 {
   "name": "@azema4ka/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Basic prettier config",
   "main": "config.json",
   "scripts": {
